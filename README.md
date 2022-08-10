@@ -26,7 +26,7 @@
     />
   </a>
 
- <a href="https://app.daily.dev/DailyDevTips">
+ <a href="https://app.daily.dev/tolgatopkac">
   <img 
        src="https://github.com/tolgatopkac/tolgatopkac/blob/main/devcard.svg" 
        width="256" 

@@ -1,39 +1,41 @@
-### Hi I'm Tolga 👋
-
 <!--
 **tolgatopkac/tolgatopkac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/tolgatopkac/">
-    <img
-      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
-      alt="LinkedIn"
-    />
-  </a>
+<h1 align="center">Hi 👋, I'm Tolga Topkac</h1>
+<h3 align="center">Dynamic and motivated Frontend Developer</h3>  
+
+
+
+- 📚 I’m currently learning **TypeScript, ReactJS, Tailwind**  
+  
+- 🗨️ Ask me about **ReactJS, JavaScript, CSS, HTML5, Tailwind**  
+  
+- 📧 How to reach me **tolga_topkac@hotmail.com**  
+
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=tolgatopkac&label=Profile%20views&color=0e75b6&style=flat" alt="tolgatopkac" /> </p>  
+
+ <h3 align="left">Connect with me:</h3>  
+<p align="left">  
+  <a  href="https://www.linkedin.com/in/tolgatopkac/"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/></a> 
   <a href="https://www.codewars.com/users/tolgatopkac">
-    <img
-      src="https://www.codewars.com/users/tolgatopkac/badges/micro"
-      alt="codewars"
-    />
-  </a>
- 
+    <img width="30px" src="https://assets-global.website-files.com/62462834c60df92621c6b5be/62462c29f3165b55ea6255ea_light-text-logo-vertical.svg" alt="codewars"/></a>
    <a href="https://www.frontendmentor.io/profile/tolgatopkac">
-    <img
-         width="120px"
-      src="https://www.frontendmentor.io/static/images/logo-desktop.svg"
-      alt="frontendmentor"
-    />
-  </a>
+    <img width="30px" src="https://cdn.worldvectorlogo.com/logos/frontendmentor-logo.svg" alt="frontendmentor" /></a>
+  <a href="https://codepen.io/tolgatopkac/pens/public">
+    <img width="40px" src="https://www.svgrepo.com/show/332024/codepen-square.svg" alt="codewars" />
+ </a>
+</p>  
+  
 
 
-</div>
+ 
+
+  
 
 
-Here are some ideas to get you started:
 
-- 🌱 I’m currently learning **TypeScript**, **Reactjs, Tailwind CSS**  
-- 💬 Talk to me about JavaScript, React, Tailwind CSS
 
 
 <h3 align="left">Languages and Tools:</h3>  
@@ -47,4 +49,5 @@ Here are some ideas to get you started:
 <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="javascript" width="40" height="40"/> </a>
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
 
- 
+
+

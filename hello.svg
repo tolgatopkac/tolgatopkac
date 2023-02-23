@@ -25,11 +25,11 @@
           }
         }
         .container {
---color-main: #303030; --color-primary: #4d4d4d; --color-secondary: #737373; --color-tertiary: #ff6600;
+--color-main: #2c3e50; --color-primary: #2c3e50; --color-secondary: #d35400; --color-tertiary: #f39c12;
 
           background: linear-gradient(-45deg, var(--color-main), var(--color-primary), var(--color-secondary), var(--color-tertiary));
           background-size: 400% 400%;
-          animation: gradient 15s ease infinite;
+          animation: gradient 10s ease infinite;
           width: 100%;
           height: 200px;
           border-radius:33px;
@@ -38,12 +38,30 @@
           justify-content: center;
           align-items: center;
           color: white;
-          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+          font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+          
+
         }
         .hi {
           animation: hi 1.5s linear -0.5s infinite;
           display: inline-block;
           transform-origin: 70% 70%;
+        }
+
+              .text {
+          animation: color-change 5s ease-in-out infinite;
+        }
+
+        @keyframes color-change {
+          0% {
+            color: #f0f0f0;
+          }
+          50% {
+            color: #ffffff;
+          }
+          100% {
+            color: #f0f0f0;
+          }
         }
         @media (prefers-color-scheme: light) {
           .container {
@@ -64,7 +82,7 @@
       </style>
 
       <div class="container">
-        <h1 class="text">Hi there 𝗠𝘆 𝗻𝗮𝗺𝗲 𝗶𝘀 Tolga<div class="hi">👋</div></h1> 
+        <h1 class="text">Hi there, My name is Tolga<div class="hi">👋</div></h1> 
         <h1>Frontend Developer</h1> 
       </div>
     </div>

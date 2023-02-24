@@ -41,7 +41,7 @@
           flex-direction: column;
           justify-content: center;
           align-items: center;
-          gap:1rem;
+         
           color: white;
           font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
         }
@@ -51,6 +51,7 @@
   margin: 0;
   position: relative;
   animation: slide 2s infinite;
+  margin-top:1rem;
 }
 
 @keyframes slide {
@@ -112,10 +113,6 @@
       <div class="container">
         <h1 class="text">Hi there, My name is Tolga<div class="hi">👋</div></h1> 
         <h1 class="slide-text">Frontend Developer</h1> 
- 
-      
-
-     
       </div>
     </div>
   </foreignObject>

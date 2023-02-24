@@ -41,7 +41,7 @@
           flex-direction: column;
           justify-content: center;
           align-items: center;
-         
+         font-size
           color: white;
           font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
         }
@@ -111,8 +111,8 @@
       </style>
 
       <div class="container">
-        <h1 class="text">Hi there, My name is Tolga<div class="hi">👋</div></h1> 
-        <h1 class="slide-text">Frontend Developer</h1> 
+        <p class="text">Hi there, My name is Tolga<span class="hi">👋</span></p> 
+        <p class="slide-text">Frontend Developer</p> 
       </div>
     </div>
   </foreignObject>

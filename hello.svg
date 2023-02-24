@@ -105,98 +105,6 @@
           }
         }
 
-        .person {
-  position: relative;
-  width: 150px;
-  height: 300px;
-  margin: 0 auto;
-  transform-origin: bottom center;
-  animation: walk 1s infinite;
-}
-
-.person__body {
-  position: absolute;
-  top: 0;
-  left: 50%;
-  width: 40px;
-  height: 100px;
-  margin-left: -20px;
-  border-radius: 20px 20px 0 0;
-  background-color: #f2c38e;
-}
-
-.person__leg {
-  position: absolute;
-  bottom: 0;
-  width: 20px;
-  height: 80px;
-  border-radius: 10px;
-  background-color: #da7c3c;
-}
-
-.person__leg--left {
-  left: 25%;
-  animation: walk-left 1s infinite;
-}
-
-.person__leg--right {
-  right: 25%;
-  animation: walk-right 1s infinite;
-}
-
-@keyframes walk {
-  0% {
-    transform: rotate(0deg);
-  }
-  25% {
-    transform: rotate(15deg);
-  }
-  50% {
-    transform: rotate(0deg);
-  }
-  75% {
-    transform: rotate(-15deg);
-  }
-  100% {
-    transform: rotate(0deg);
-  }
-}
-
-@keyframes walk-left {
-  0% {
-    transform: rotate(0deg);
-  }
-  25% {
-    transform: rotate(20deg);
-  }
-  50% {
-    transform: rotate(0deg);
-  }
-  75% {
-    transform: rotate(-20deg);
-  }
-  100% {
-    transform: rotate(0deg);
-  }
-}
-
-@keyframes walk-right {
-  0% {
-    transform: rotate(0deg);
-  }
-  25% {
-    transform: rotate(-20deg);
-  }
-  50% {
-    transform: rotate(0deg);
-  }
-  75% {
-    transform: rotate(20deg);
-  }
-  100% {
-    transform: rotate(0deg);
-  }
-}
 
 
       </style>
@@ -205,11 +113,8 @@
         <h1 class="text">Hi there, My name is Tolga<div class="hi">👋</div></h1> 
         <h1 class="slide-text">Frontend Developer</h1> 
  
-        <div class="person">
-          <div class="person__body"></div>
-          <div class="person__leg person__leg--left"></div>
-          <div class="person__leg person__leg--right"></div>
-      </div>
+      
+
      
       </div>
     </div>

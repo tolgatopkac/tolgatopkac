@@ -111,7 +111,8 @@
       </style>
 
       <div class="container">
-        <h1 class="text">Hi there, My name is Tolga<div class="hi">👋</div></h1> 
+     
+        <h1 class="text"> Hey there<div class="hi">👋</div> I'm Tolga</h1> 
         <h1 class="slide-text">Frontend Developer</h1> 
       </div>
     </div>

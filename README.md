@@ -2,11 +2,9 @@
   <img src="readme.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
-## <img align="right" src="https://komarev.com/ghpvc/?username=tolgatopkac&color=4526f6&style=flat-square">
+<img align="right" src="https://komarev.com/ghpvc/?username=tolgatopkac&color=4526f6&style=flat-square">
 
 ## 🛠️ Languages and Tools
-
----
 
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=html5&logoColor=FFFFFF&label=)
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=git&logoColor=FFFFFF&label=)

@@ -11,6 +11,7 @@
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=linux&logoColor=FCC624&label=)
 
 ![Webflow](https://img.shields.io/static/v1?style=for-the-badge&message=Webflow&color=4353FF&logo=Webflow&logoColor=FFFFFF&label=)
+![Webflow](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ![Vite](https://img.shields.io/static/v1?style=for-the-badge&message=Vite&color=646CFF&logo=vite&logoColor=FFFFFF&label=)
 
